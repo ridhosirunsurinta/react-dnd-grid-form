@@ -1,7 +1,7 @@
+import CardGrid from '../../components/card-grid';
+
 const HomePage = () => {
-  return (
-    <h1>Home Page</h1>
-  );
+  return <CardGrid />;
 };
 
 export default HomePage;
